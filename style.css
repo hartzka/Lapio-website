@@ -1,11 +1,29 @@
-p {
-   color: red;
+
+ .first-box-container {
+   width: 200px;
+   height: 100px;
+   background-color: red;
  }
 
- h1 {
-   color: blue;
+ .second-box-container {
+   width: 200px;
+   height: 100px;
+   left: 250px;
+   top: 20px;
+   position: absolute;
+   background-color: yellow;
  }
 
- ul {
-   color: pink;
+ .third-box-container {
+   width: 200px;
+   height: 100px;
+   left: 500px;
+   top: 20px;
+   position: absolute;
+   background-color: green;
+ }
+
+ div {
+   position: absolute;
+   top:20px;
  }
